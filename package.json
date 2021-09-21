@@ -8,6 +8,7 @@
 	"description": "freeCodeCamp - Back End Development and APIs",
 	"keywords": ["freecodecamp", "test", "server"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"scripts": {
 		"start": "node server.js"
 	},
