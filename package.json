@@ -5,6 +5,7 @@
 	},
 	"main": "server.js",
 	"author": "gelatinaCosmica",
+	"description": "freeCodeCamp - Back End Development and APIs",
 	"scripts": {
 		"start": "node server.js"
 	},
