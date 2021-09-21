@@ -6,6 +6,7 @@
 	"main": "server.js",
 	"author": "gelatinaCosmica",
 	"description": "freeCodeCamp - Back End Development and APIs",
+	"keywords": ["freecodecamp", "test", "server"],
 	"scripts": {
 		"start": "node server.js"
 	},
